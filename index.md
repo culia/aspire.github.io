@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome to ASPIRE Engine Development
 
-You can use the [editor on GitHub](https://github.com/culia/aspire.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This site serves as a resource to share research and development of the ASPIRE engine.
+You will find links to documents and online resources here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
